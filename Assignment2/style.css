@@ -16,6 +16,7 @@ body {
 
 .centered {
 	text-align: center;
+  font-size: 175%;
 }
 
 .block {
@@ -38,14 +39,15 @@ body {
 	position: relative;
 	top: -16px;
 	left: 16px;
+  font-size: 125%;
 }
 
 .content {
 	clear: right;
 }
 
-.pink-block {
-	background-color: pink;
+.cyan-block {
+	background-color: cyan;
 	color: black;
 }
 
