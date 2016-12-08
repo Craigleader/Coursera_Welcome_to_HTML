@@ -1,0 +1,69 @@
+/***  All content  ***/
+body {
+  background-color: #424242;
+  color: #FEFEFE;
+  font-family: 'Open Sans', sans-serif;
+}
+/***  Nav bar custom  ***/
+#header-nav {
+  background-color: #4c4cff;
+  width: 100%;
+  border-radius: 0px;
+  border: 0;
+  padding-bottom: 5px;
+}
+.navbar-brand {
+  padding-top: 20px;
+}
+.navbar-brand h1 { /* logo */
+  font-size: 1.5em;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.1;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+button.navbar-toggle {
+  background-color: #424242;
+}
+/* Our menu heading */
+.site-heading {
+  margin-top: 0px;
+  padding-bottom: 15px;
+}
+/*Content box*/
+.text-box{
+  background-color: #AAAAAA;
+  padding: 5px 15px 15px 20px ;
+  margin-bottom: 15px;
+}
+#first-col, #second-col, #third-col {
+  position: relative;
+  overflow: hidden;
+}
+.menu-link {
+  text-decoration: none;
+  color: #FFFFFF;
+  background-color: #EFEFEF;
+  font-size: 1.3em;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+hr {
+  width: 100%;
+  color: #424242;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
